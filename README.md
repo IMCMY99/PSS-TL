@@ -1,3 +1,6 @@
+The code of paper 《Propagation Structure-Semantic Transfer Learning for Robust Fake News Detection》 at ECML-PKDD 2024
+
+
 fea_t.py————Content teacher 
 
 stru_t.py————Propagation teacher 

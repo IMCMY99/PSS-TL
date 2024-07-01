@@ -11,4 +11,4 @@ train_new.py————Teacher-Student Training
 run.py————run for the results 
 
 
-Dataset: dataset is available at 
+Dataset: dataset is available at https://github.com/safe-graph/GNN-FakeNews?tab=readme-ov-file#datasets

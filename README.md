@@ -9,3 +9,6 @@ st.py————KL_loss
 train_new.py————Teacher-Student Training 
 
 run.py————run for the results 
+
+
+Dataset: dataset is available at 
